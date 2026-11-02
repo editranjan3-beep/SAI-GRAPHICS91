@@ -1,0 +1,6 @@
+{
+  "name": "Sai Graphics",
+  "description": "Post-production management tool and client collaboration portal for Sai Graphics, Sahmarket, Bhagalpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
